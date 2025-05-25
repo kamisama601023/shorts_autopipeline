@@ -1,0 +1,19 @@
+
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Meiryo UI,54,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,60,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.06,Default,,0,0,0,,それはカップラーメンなのだ！
+Dialogue: 0,0:00:02.06,0:00:06.51,Default,,0,0,0,,でも、誕生してからまだ60年しか経っていないのだ。
+Dialogue: 0,0:00:06.51,0:00:13.27,Default,,0,0,0,,1961年、日本の安藤百福によって初めて開発されたのだ。
+Dialogue: 0,0:00:13.27,0:00:18.47,Default,,0,0,0,,今では100カ国以上で売られ、毎秒3000個食べられているのだ。
+Dialogue: 0,0:00:18.47,0:00:22.43,Default,,0,0,0,,一体なぜ、これほどまでに広まったのだろうか？
+Dialogue: 0,0:00:22.43,0:00:27.36,Default,,0,0,0,,実はシンプルで、お湯を注ぐだけで素早く美味しいからなのだ。
+Dialogue: 0,0:00:27.36,0:00:32.97,Default,,0,0,0,,カップラーメンは今後も進化するのだ、次に何が来るか楽しみなのだ！
