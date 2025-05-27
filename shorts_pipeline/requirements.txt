@@ -1,0 +1,6 @@
+pytrends
+requests
+beautifulsoup4
+openai>=1.30
+python-dotenv
+pandas
